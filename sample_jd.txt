@@ -1,0 +1,1 @@
+Looking for an NLP Engineer with strong Python skills. You will build text-processing pipelines using spaCy and scikit-learn, apply TF-IDF and classification, and expose models through Flask APIs. SQL and Git experience expected.

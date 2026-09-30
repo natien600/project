@@ -1,0 +1,76 @@
+[
+  {
+    "name": "alice_data_scientist.pdf",
+    "score": 67.5,
+    "similarity": 18.6,
+    "keyword_pct": 100.0,
+    "matched": [
+      "python",
+      "nlp",
+      "spacy",
+      "scikit-learn",
+      "tf-idf",
+      "flask",
+      "sql",
+      "git"
+    ],
+    "missing": [],
+    "rank": 1
+  },
+  {
+    "name": "chitra_ml_engineer.pdf",
+    "score": 58.7,
+    "similarity": 12.2,
+    "keyword_pct": 89.6,
+    "matched": [
+      "python",
+      "nlp",
+      "spacy",
+      "scikit-learn",
+      "tf-idf",
+      "flask",
+      "sql"
+    ],
+    "missing": [
+      "git"
+    ],
+    "rank": 2
+  },
+  {
+    "name": "bikram_backend_dev.pdf",
+    "score": 16.3,
+    "similarity": 1.5,
+    "keyword_pct": 26.2,
+    "matched": [
+      "python",
+      "flask"
+    ],
+    "missing": [
+      "nlp",
+      "spacy",
+      "scikit-learn",
+      "tf-idf",
+      "sql",
+      "git"
+    ],
+    "rank": 3
+  },
+  {
+    "name": "dev_designer.pdf",
+    "score": 0.0,
+    "similarity": 0.0,
+    "keyword_pct": 0.0,
+    "matched": [],
+    "missing": [
+      "python",
+      "nlp",
+      "spacy",
+      "scikit-learn",
+      "tf-idf",
+      "flask",
+      "sql",
+      "git"
+    ],
+    "rank": 4
+  }
+]

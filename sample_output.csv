@@ -1,0 +1,5 @@
+Rank,Resume,Score,Similarity %,Keyword %,Matched,Missing
+1,alice_data_scientist.pdf,67.5,18.6,100.0,python; nlp; spacy; scikit-learn; tf-idf; flask; sql; git,
+2,chitra_ml_engineer.pdf,58.7,12.2,89.6,python; nlp; spacy; scikit-learn; tf-idf; flask; sql,git
+3,bikram_backend_dev.pdf,16.3,1.5,26.2,python; flask,nlp; spacy; scikit-learn; tf-idf; sql; git
+4,dev_designer.pdf,0.0,0.0,0.0,,python; nlp; spacy; scikit-learn; tf-idf; flask; sql; git
